@@ -7,6 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "export",
+  basePath: "/IdleGymGames",
+  distDir: "docs",
 };
 
 export default nextConfig;
